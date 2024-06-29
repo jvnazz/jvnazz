@@ -1,6 +1,4 @@
-# Hello there 👋
-
-Just a 17 year old dude from Germany, who's trying to learn programming.
+# yo
 
 <p align="left">
   <img src="spongebob-twerk-spongebob.gif" width="250" title=":)">
